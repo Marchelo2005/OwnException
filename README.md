@@ -11,21 +11,25 @@ Description of the repository: - Intellij IDEA community edition 2024,Jdk 11, Jr
 
 The program does the following:
 
- It applies what is related in Own Execption to the practice by means of code.
+ It applies what is related in Own Exception to the practice by means of code.
 
 *Program images
 
 Image 1
 
-<img src="https://github.com/Marchelo2005/PrintObject/blob/main/img/Captura%20de%20pantalla%202024-07-05%20013254.png" width="35%">
+<img src="https://github.com/Marchelo2005/OwnException/blob/main/Captura%20de%20pantalla%202024-07-05%20014305.png" width="35%">
 
 Image 2
 
-<img src="https://github.com/Marchelo2005/PrintObject/blob/main/img/Captura%20de%20pantalla%202024-07-05%20013301.png" width="35%">
+<img src="https://github.com/Marchelo2005/OwnException/blob/main/Captura%20de%20pantalla%202024-07-05%20014316.png" width="35%">
 
 Image 3
 
-<img src="https://github.com/Marchelo2005/PrintObject/blob/main/img/Captura%20de%20pantalla%202024-07-05%20013320.png" width="35%">
+<img src="https://github.com/Marchelo2005/OwnException/blob/main/Captura%20de%20pantalla%202024-07-05%20014326.png" width="35%">
+
+Image 4
+
+<img src="https://github.com/Marchelo2005/OwnException/blob/main/Captura%20de%20pantalla%202024-07-05%20014402.png" width="35%">
 
 
 
